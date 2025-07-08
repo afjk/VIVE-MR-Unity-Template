@@ -4,22 +4,13 @@ A Unity template for developing Mixed Reality (MR) applications on **VIVE Focus 
 
 ## Overview
 
-This repository provides a ready-to-use Unity project template that includes all the necessary configurations, settings, and components for developing Mixed Reality applications targeting VIVE Focus Vision and VIVE XR Elite devices. The template is built with Unity 2023.3 (6000.0.48f1) and includes:
+This repository provides a ready-to-use Unity project template that includes all the necessary configurations, settings, and components for developing Mixed Reality applications targeting VIVE Focus Vision and VIVE XR Elite devices. The template is built with Unity 6000.0.48f1 and includes:
 
 - **Universal Render Pipeline (URP)** configuration optimized for MR applications
 - **VIVE OpenXR** integration for seamless XR functionality
 - **Passthrough capability** for mixed reality experiences
 - **GitHub Actions** for automated Android builds
 - **Pre-configured XR settings** for VIVE devices
-
-## Features
-
-- ✅ **Mixed Reality Support**: Full passthrough functionality for AR/MR experiences
-- ✅ **VIVE Device Optimization**: Specifically configured for VIVE Focus Vision and VIVE XR Elite
-- ✅ **Universal Render Pipeline**: Optimized rendering for mobile XR platforms
-- ✅ **OpenXR Integration**: Standards-based XR development
-- ✅ **Automated Builds**: GitHub Actions workflow for continuous integration
-- ✅ **Ready-to-Use**: Minimal setup required to start developing
 
 ## Setup Instructions
 
@@ -136,7 +127,7 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 For questions and support:
 - Check the [setup guide](https://qiita.com/afjk/items/f723f6dd2101f9b85905) for detailed instructions
 - Open an issue in this repository for bug reports or feature requests
-- Refer to the [VIVE Developer Documentation](https://developer.vive.com/) for device-specific information
+- Refer to the [VIVE Developer Documentation](https://developer.vive.com/resources/openxr/) for device-specific information
 
 ---
 
